@@ -1,0 +1,10 @@
+extraction:
+  cpp:
+    prepare:
+     configure:
+      command:
+        - make
+    index:
+      build_command:
+        - make
+
